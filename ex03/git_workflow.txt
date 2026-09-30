@@ -1,0 +1,4 @@
+1. Edit: Create or modify project files (e.g., editing README.md or script files).
+2. Stage (git add): Prepare the modified or new files to be tracked and included in the next commit.
+3. Commit (git commit): Save the staged changes permanently in the local Git repository history with a clear descriptive message.
+4. Push (git push): Upload the local commits to the remote repository on GitHub (origin main) to sync the cloud project.
