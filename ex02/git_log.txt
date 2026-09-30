@@ -1,0 +1,23 @@
+commit de0033ebaa41aceba180bbb0b3e805645a977fcf
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Wed Sep 30 15:31:12 2026 -0400
+
+    feat: add ex02 files (repo_url and git_log)
+
+commit 879cb97294f7615e153cb529669c920d0c2b4abf
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Wed Sep 30 15:17:37 2026 -0400
+
+    chore: remove temporary files from ex01
+
+commit e4377c552132e39ae4bec768ce5dfe9b2710d923
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Wed Sep 30 14:58:07 2026 -0400
+
+    feat: add ex01 file manipulation and logs
+
+commit 0a63e5f8c4f72443c6dc06d04979402e37c1f4df
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Wed Sep 30 13:50:02 2026 -0400
+
+    feat: add ex00
