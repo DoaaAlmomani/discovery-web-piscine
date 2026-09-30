@@ -1,0 +1,40 @@
+/home/kali/dev_workspace:
+total 20
+drwxrwxr-x  5 kali kali 4096 Sep 30 12:33 .
+drwx------ 45 kali kali 4096 Sep 30 12:41 ..
+drwxrwxr-x  2 kali kali 4096 Sep 30 12:33 archives
+drwxrwxr-x  3 kali kali 4096 Sep 30 12:36 projects
+drwxrwxr-x  2 kali kali 4096 Sep 30 12:33 tools
+
+/home/kali/dev_workspace/archives:
+total 8
+drwxrwxr-x 2 kali kali 4096 Sep 30 12:33 .
+drwxrwxr-x 5 kali kali 4096 Sep 30 12:33 ..
+
+/home/kali/dev_workspace/projects:
+total 12
+drwxrwxr-x 3 kali kali 4096 Sep 30 12:36 .
+drwxrwxr-x 5 kali kali 4096 Sep 30 12:33 ..
+drwxrwxr-x 4 kali kali 4096 Sep 30 12:36 web
+
+/home/kali/dev_workspace/projects/web:
+total 16
+drwxrwxr-x 4 kali kali 4096 Sep 30 12:36 .
+drwxrwxr-x 3 kali kali 4096 Sep 30 12:36 ..
+drwxrwxr-x 2 kali kali 4096 Sep 30 12:36 backend
+drwxrwxr-x 2 kali kali 4096 Sep 30 12:36 frontend
+
+/home/kali/dev_workspace/projects/web/backend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Sep 30 12:36 .
+drwxrwxr-x 4 kali kali 4096 Sep 30 12:36 ..
+
+/home/kali/dev_workspace/projects/web/frontend:
+total 8
+drwxrwxr-x 2 kali kali 4096 Sep 30 12:36 .
+drwxrwxr-x 4 kali kali 4096 Sep 30 12:36 ..
+
+/home/kali/dev_workspace/tools:
+total 8
+drwxrwxr-x 2 kali kali 4096 Sep 30 12:33 .
+drwxrwxr-x 5 kali kali 4096 Sep 30 12:33 ..
