@@ -1,3 +1,33 @@
+commit 2357df85bebde702a5bc076c9bdcd73c53f6c782
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Thu Oct 1 03:59:37 2026 -0400
+
+    chore: remove hello.txt
+
+commit eaf8b33cf89930bf56b664ff6e8fbe4f2eaa4c8d
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Thu Oct 1 03:52:15 2026 -0400
+
+    feat: add hello.txt
+
+commit f16a814e6793f6a7b9db944eb4260e441132d303
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Wed Sep 30 16:18:00 2026 -0400
+
+    feat: complete ex03 with README, workflow, and SSH pub key bonus
+
+commit 48fc0d270aeae94276bbe6ba09abc84169c54a9a
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Wed Sep 30 15:52:31 2026 -0400
+
+    chore: remove hello.txt from ex02 to keep only required submission files
+
+commit 6b1e9fb02809ad74b3fe21727b14986cd76a70a1
+Author: DoaaAlmomani <doaaalmomani88@gmail.com>
+Date:   Wed Sep 30 15:47:47 2026 -0400
+
+    feat: place ex02 required files correctly inside ex02 directory
+
 commit de0033ebaa41aceba180bbb0b3e805645a977fcf
 Author: DoaaAlmomani <doaaalmomani88@gmail.com>
 Date:   Wed Sep 30 15:31:12 2026 -0400
